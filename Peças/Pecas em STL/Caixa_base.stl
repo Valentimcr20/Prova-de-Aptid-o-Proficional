@@ -1,0 +1,142 @@
+solid Cimatron Ltd
+   facet normal 1 0 0
+      outer loop
+         vertex 12 -500 -325
+         vertex 12 -5.68434E-14 -325
+         vertex 12 -500 325
+      endloop
+   endfacet
+   facet normal 0 0 -1
+      outer loop
+         vertex 12 -500 -325
+         vertex 0 -5.68434E-14 -325
+         vertex 12 -5.68434E-14 -325
+      endloop
+   endfacet
+   facet normal 1 0 0
+      outer loop
+         vertex 12 -5.68434E-14 -325
+         vertex 12 -5.68434E-14 325
+         vertex 12 -500 325
+      endloop
+   endfacet
+   facet normal 0 -1 0
+      outer loop
+         vertex 12 -500 325
+         vertex 0 -500 -325
+         vertex 12 -500 -325
+      endloop
+   endfacet
+   facet normal 0 0 -1
+      outer loop
+         vertex 0 -500 -325
+         vertex 0 -5.68434E-14 -325
+         vertex 12 -500 -325
+      endloop
+   endfacet
+   facet normal 0 0 -1
+      outer loop
+         vertex 12 -5.68434E-14 -325
+         vertex 0 -5.68434E-14 -325
+         vertex 0 500 -325
+      endloop
+   endfacet
+   facet normal 1 0 0
+      outer loop
+         vertex 12 500 -325
+         vertex 12 -5.68434E-14 325
+         vertex 12 -5.68434E-14 -325
+      endloop
+   endfacet
+   facet normal 0 0 1
+      outer loop
+         vertex 12 -500 325
+         vertex 12 -5.68434E-14 325
+         vertex 0 -500 325
+      endloop
+   endfacet
+   facet normal 0 -1 0
+      outer loop
+         vertex 0 -500 325
+         vertex 0 -500 -325
+         vertex 12 -500 325
+      endloop
+   endfacet
+   facet normal -1 0 0
+      outer loop
+         vertex 0 -500 -325
+         vertex 0 -5.68434E-14 325
+         vertex 0 -5.68434E-14 -325
+      endloop
+   endfacet
+   facet normal -1 0 0
+      outer loop
+         vertex 0 500 -325
+         vertex 0 -5.68434E-14 -325
+         vertex 0 500 325
+      endloop
+   endfacet
+   facet normal 0 0 -1
+      outer loop
+         vertex 12 500 -325
+         vertex 12 -5.68434E-14 -325
+         vertex 0 500 -325
+      endloop
+   endfacet
+   facet normal 1 0 0
+      outer loop
+         vertex 12 500 325
+         vertex 12 -5.68434E-14 325
+         vertex 12 500 -325
+      endloop
+   endfacet
+   facet normal 0 0 1
+      outer loop
+         vertex 12 -5.68434E-14 325
+         vertex 0 -5.68434E-14 325
+         vertex 0 -500 325
+      endloop
+   endfacet
+   facet normal -1 0 0
+      outer loop
+         vertex 0 -500 325
+         vertex 0 -5.68434E-14 325
+         vertex 0 -500 -325
+      endloop
+   endfacet
+   facet normal -1 0 0
+      outer loop
+         vertex 0 -5.68434E-14 -325
+         vertex 0 -5.68434E-14 325
+         vertex 0 500 325
+      endloop
+   endfacet
+   facet normal 0 1 0
+      outer loop
+         vertex 0 500 -325
+         vertex 0 500 325
+         vertex 12 500 -325
+      endloop
+   endfacet
+   facet normal 0 0 1
+      outer loop
+         vertex 12 500 325
+         vertex 0 -5.68434E-14 325
+         vertex 12 -5.68434E-14 325
+      endloop
+   endfacet
+   facet normal 0 1 0
+      outer loop
+         vertex 12 500 -325
+         vertex 0 500 325
+         vertex 12 500 325
+      endloop
+   endfacet
+   facet normal 0 0 1
+      outer loop
+         vertex 0 500 325
+         vertex 0 -5.68434E-14 325
+         vertex 12 500 325
+      endloop
+   endfacet
+endsolid
